@@ -1,2 +1,0 @@
-# BankistWebsite
-with [Jonas Schmedtmann]
